@@ -60,5 +60,5 @@ Aplicación en Streamlit Cloud:https://dmctrabajopractico2026.streamlit.app/
 
 ## Autor
 
-William Paucar  
+William Samuel Kenneth Paucar Huayta 
 2026
