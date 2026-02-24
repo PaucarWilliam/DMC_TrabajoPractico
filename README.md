@@ -54,7 +54,7 @@ streamlit run app.py
 
 Repositorio GitHub: https://github.com/PaucarWilliam/DMC_TrabajoPractico 
 
-Aplicación en Streamlit Cloud: (Colocar aquí el enlace cuando esté desplegada)  
+Aplicación en Streamlit Cloud:https://dmctrabajopractico2026.streamlit.app/
 
 ---
 
