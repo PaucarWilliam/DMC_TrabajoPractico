@@ -30,7 +30,6 @@ La aplicación permite registrar actividades financieras, evaluar presupuestos, 
 
 - Python  
 - Streamlit  
-- Pandas  
 
 ---
 
@@ -53,7 +52,7 @@ streamlit run app.py
 
 ## Enlaces
 
-Repositorio GitHub: (Colocar aquí el enlace del repositorio)  
+Repositorio GitHub: https://github.com/PaucarWilliam/DMC_TrabajoPractico 
 
 Aplicación en Streamlit Cloud: (Colocar aquí el enlace cuando esté desplegada)  
 
